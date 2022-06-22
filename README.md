@@ -1,4 +1,5 @@
 <center><p style="text-align:center;"><img src="logo.png" alt="Logo", width="125"></p></center>
+
 [![netlify status](https://api.netlify.com/api/v1/badges/20b08937-99d0-4882-b9a3-d5f09ddd29b7/deploy-status)](https://app.netlify.com/sites/tangerine-licorice-5f7cbc/deploys)
 
 # Terraform registry proxy with prometheus
